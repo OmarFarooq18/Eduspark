@@ -1,0 +1,4 @@
+project_id = "jepddzhxuxoeanrkfheg"
+
+[functions.search-resources]
+verify_jwt = false
